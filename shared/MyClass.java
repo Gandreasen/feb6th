@@ -55,7 +55,7 @@ public class MyClass{
         System.out.println("Your my favorite too!");
         
         counter countdown = new counter();
-        countdown.thread();
+        //countdown.thread();
     }
           
     
